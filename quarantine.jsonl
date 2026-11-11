@@ -1,0 +1,24 @@
+{"line": 11, "booking_id": "B0011", "reason": "tickets.type: Input should be 'standard', 'vip' or 'student'"}
+{"line": 16, "booking_id": "B0016", "reason": "tickets.qty: Input should be greater than or equal to 1"}
+{"line": 24, "booking_id": "B0024", "reason": "student.id: student id must be two digits, a dash, four digits (e.g. 58-1234)"}
+{"line": 44, "booking_id": "B0035", "reason": "duplicate booking_id"}
+{"line": 50, "booking_id": "B0049", "reason": "event: Input should be a valid dictionary or instance of Event"}
+{"line": 58, "booking_id": "B0057", "reason": "student.id: student id must be two digits, a dash, four digits (e.g. 58-1234)"}
+{"line": 61, "booking_id": "B0060", "reason": "student.id: student id must be two digits, a dash, four digits (e.g. 58-1234)"}
+{"line": 91, "booking_id": "B0090", "reason": "tickets.type: Input should be 'standard', 'vip' or 'student'"}
+{"line": 102, "booking_id": "B0101", "reason": "total does not equal sum of qty x price"}
+{"line": 107, "booking_id": "B0106", "reason": "student.id: student id must be two digits, a dash, four digits (e.g. 58-1234)"}
+{"line": 117, "booking_id": "B0116", "reason": "booked_at is not before the event date"}
+{"line": 121, "booking_id": "B0107", "reason": "duplicate booking_id"}
+{"line": 132, "booking_id": "B0130", "reason": "tickets: List should have at least 1 item after validation, not 0"}
+{"line": 144, "booking_id": "B0142", "reason": "total does not equal sum of qty x price"}
+{"line": 170, "booking_id": "B0168", "reason": "booked_at is not before the event date"}
+{"line": 189, "booking_id": "B0187", "reason": "event: Input should be a valid dictionary or instance of Event"}
+{"line": 190, "booking_id": "B0066", "reason": "duplicate booking_id"}
+{"line": 193, "booking_id": "B0190", "reason": "tickets: List should have at least 1 item after validation, not 0"}
+{"line": 218, "booking_id": "B0215", "reason": "total does not equal sum of qty x price"}
+{"line": 224, "booking_id": "B0221", "reason": "booked_at is not before the event date"}
+{"line": 236, "booking_id": "B0233", "reason": "total does not equal sum of qty x price"}
+{"line": 244, "booking_id": "B0241", "reason": "tickets.type: Input should be 'standard', 'vip' or 'student'"}
+{"line": 255, "booking_id": "B0252", "reason": "tickets.qty: Input should be greater than or equal to 1"}
+{"line": 281, "booking_id": "B0278", "reason": "tickets.qty: Input should be greater than or equal to 1"}
